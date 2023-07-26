@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-   <channel>
-    <title> Obama's Speeches Podcast</title>
-    <itunes:author> oBro </itunes:author>
-    <itunes:image href="https://shorturl.at/hxE59" />
-   </channel>
-   <item>
-    <title>Federal Plaza Address Opposing the War in Iraq</title>
-    <pubDate> Fri, 24 Feb 2017 12:00:00 GMT </pubDate>
-    <enclosure url="02 Oct 2002" type="audio/mpeg" length="26004388" />
-  </item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Obama Speeches</title>
+    <itunes:author>Obama</itunes:author>
+    <itunes:image href="https://github.com/jithab/test1/raw/master/obama.jpeg"/>
+    <language>en-uk</language>  
+<item>
+  <title>Federal Plaza Address Opposing the War in Iraq</title>
+  <pubDate>2002-10-01T18:30:00.000Z</pubDate>
+  <enclosure url="https://www.americanrhetoric.com/mp3clips/barackobama/barackobamafederalplaza.mp3" type="audio/mpeg" length="0"/>
+</item>
 </rss>
