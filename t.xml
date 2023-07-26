@@ -3,10 +3,10 @@
 <channel>
     <title> Obama's Speeches Podcast</title>
     <itunes:author> oBro </itunes:author>
-    <itunes:image href = "https://shorturl.at/hxE59" />
+    <itunes:image href="https://shorturl.at/hxE59" />
    </channel>
  <item>
-<title>Federal Plaza Address Opposing the War in Iraq</title >
- <pubDate> Fri, 24 Feb 2017 12:00:00 GMT </pubDate >
-  <enclosure url = "02 Oct 2002" type = "audio/mpeg" length = "26004388" / >
+<title>Federal Plaza Address Opposing the War in Iraq</title>
+ <pubDate> Fri, 24 Feb 2017 12:00:00 GMT </pubDate>
+  <enclosure url="02 Oct 2002" type="audio/mpeg" length="26004388" />
 </item></rss>
